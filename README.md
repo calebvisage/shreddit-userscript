@@ -1,2 +1,3 @@
 # shreddit-userscript
-Removes the blocking modal when viewing "mature content"
+
+Removes the blocking modal when viewing "mature content".
